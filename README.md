@@ -1,0 +1,2 @@
+# StudentAddmissionCoreDataApp
+coredata App
